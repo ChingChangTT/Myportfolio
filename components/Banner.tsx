@@ -19,7 +19,7 @@ const Banner = () => {
         transition={{ duration: 0.5, delay: 0.7 }}
         className="text-4xl lgl:text-6xl font-titleFont font-semibold flex flex-col"
       >
-        Noor Mohammad.
+        Keo Ratana.
         <span className="text-textDark mt-2 lgl:mt-4">
           I build things for the web.
         </span>
@@ -30,7 +30,7 @@ const Banner = () => {
         transition={{ duration: 0.5, delay: 0.8 }}
         className="text-base md:max-w-[650px] text-textDark font-medium"
       >
-        I am a web developer with 4+ years of experience in React. I have a
+        I am a web developer with 4+ years in studying computer science . I have a
         strong foundation in front-end & back-end development and am skilled in
         creating user-friendly and responsive web applications using React and
         its ecosystem.{" "}
@@ -42,7 +42,7 @@ const Banner = () => {
           </span>
         </a>
       </motion.p>
-      <a href="https://github.com/noorjsdivs" target="_blank">
+      <a href="https://github.com/ChingChangTT" target="_blank">
         <motion.button
           initial={{ y: 10, opacity: 0 }}
           animate={{ y: 0, opacity: 1 }}
