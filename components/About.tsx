@@ -25,8 +25,7 @@ const About = () => {
             <span className="text-textGreen">
               a huge corporation, and a student-led design studio.
             </span>
-            Lorem ipsum dolor sit amet consectetur adipisicing elit. Odio rem
-            accusantium fugiat veritatis, quidem repellat{" "}
+            My expertise lies in crafting clean, maintainable code, implementing responsive design principles for compatibility across all devices, and integrating APIs to enhance functionality. With a focus on user experience and performance optimization, I take pride in delivering solutions that not only meet client requirements but also exceed expectations. Whether working on individual projects or collaborating within a team, I am committed to staying up-to-date with the latest industry trends and continually improving my skills to ensure innovative and impactful results.{" "}
             <span className="text-textGreen">
               ab natus possimus? Sint, accusamus!
             </span>
