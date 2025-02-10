@@ -26,14 +26,14 @@ const About = () => {
               a huge corporation, and a student-led design studio.
             </span>
             My expertise lies in crafting clean, maintainable code, implementing responsive design principles for compatibility across all devices, and integrating APIs to enhance functionality. With a focus on user experience and performance optimization, I take pride in delivering solutions that not only meet client requirements but also exceed expectations. Whether working on individual projects or collaborating within a team, I am committed to staying up-to-date with the latest industry trends and continually improving my skills to ensure innovative and impactful results.{" "}
-            <span className="text-textGreen">
+            {/* <span className="text-textGreen">
               ab natus possimus? Sint, accusamus!
-            </span>
+            </span> */}
           </p>
           <p>
-            Lorem ipsum, dolor sit amet consectetur adipisicing elit. Dolorem
-            ullam eligendi dolorum nostrum possimus quos iusto magnam ut esse
-            recusandae.
+          As someone passionate about web development, I believe that every project is an opportunity to solve problems, tell stories, and make a difference. I thrive on the challenge of transforming complex ideas into intuitive, user-friendly interfaces. Beyond just writing code, I enjoy exploring creative ways to merge functionality and aesthetics, ensuring every project stands out. I am driven by a curiosity to learn and the excitement of pushing boundaries to create digital experiences that leave a lasting impression.
+
+
           </p>
           <p>Here are a few technologies I have been working with recently:</p>
           <ul className="max-w-[450px] text-sm font-titleFont grid grid-cols-2 gap-2 mt-6">
@@ -47,7 +47,7 @@ const About = () => {
               <span className="text-textGreen">
                 <AiFillThunderbolt />
               </span>
-              Next.js
+              Joomla
             </li>
             <li className="flex items-center gap-2">
               <span className="text-textGreen">
@@ -59,7 +59,7 @@ const About = () => {
               <span className="text-textGreen">
                 <AiFillThunderbolt />
               </span>
-              Node.js
+              Boostrap5
             </li>
             <li className="flex items-center gap-2">
               <span className="text-textGreen">
@@ -71,13 +71,13 @@ const About = () => {
               <span className="text-textGreen">
                 <AiFillThunderbolt />
               </span>
-              Express.js
+              PHP
             </li>
             <li className="flex items-center gap-2">
               <span className="text-textGreen">
                 <AiFillThunderbolt />
               </span>
-              MongoDB
+              Wordpress
             </li>
             <li className="flex items-center gap-2">
               <span className="text-textGreen">
