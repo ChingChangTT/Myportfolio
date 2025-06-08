@@ -15,15 +15,13 @@ const About = () => {
           <p>
             Hello! My name is Keo Ratana and I enjoy creating things that
             live on the internet. My interest in web development started back in
-            2012 when I decided to try editing custom Tumblr themes — turns out
-            hacking together a custom reblog button taught me a lot about HTML &
-            CSS!
+            2023 when I decided to try re built an website by self, It's make me feel interested how website work and its logic.
           </p>
           <p>
             Fast-forward to today, and I had the privilege of working at an
-            advertising agency, a start-up,{" "}
-            <span className="text-textGreen">
-              a huge corporation, and a student-led design studio.
+            Backend and Frontend by using React and Laravel, a start-up,{" "}
+            <span className="text-textGreen mr-4">
+              AWS 
             </span>
             My expertise lies in crafting clean, maintainable code, implementing responsive design principles for compatibility across all devices, and integrating APIs to enhance functionality. With a focus on user experience and performance optimization, I take pride in delivering solutions that not only meet client requirements but also exceed expectations. Whether working on individual projects or collaborating within a team, I am committed to staying up-to-date with the latest industry trends and continually improving my skills to ensure innovative and impactful results.{" "}
             {/* <span className="text-textGreen">

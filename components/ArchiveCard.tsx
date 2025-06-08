@@ -5,7 +5,8 @@ interface Props {
   title: string;
   des: string;
   listItem: string[];
-  link: string;
+  link: string ;
+  
 }
 
 const ArchiveCard = ({ title, des, listItem, link }: Props) => {
