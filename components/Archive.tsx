@@ -152,8 +152,7 @@ const Archive = () => {
             >
               <ArchiveCard
                 title="WordPress Ecommerce"
-                des=" Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa
-            laudantium velit qui sint non, voluptates quo a veritatis."
+                des=" Built a fully functional and responsive e-commerce website using WordPress and WooCommerce to enable online shopping with an easy-to-manage backend interface."
                 listItem={["Wordpress","Warm Server"]}
                 link="https://my-website-rzyw7t.flywp.xyz/"
               />
@@ -165,8 +164,7 @@ const Archive = () => {
             >
               <ArchiveCard
                 title="UX/UI Ecommerce App"
-                des=" Lorem ipsum dolor sit amet consectetur adipisicing elit. Culpa
-            laudantium velit qui sint non, voluptates quo a veritatis."
+                des=" Designed an intuitive and visually appealing E-commerce mobile application focused on enhancing the user shopping experience. "
                 listItem={["Figma", "Photoshop"]}
                 link="https://www.figma.com/proto/fzFWy4jEZNShTJaqRFbyXL/Shoppe---eCommerce-Clothing-Fashion-Store-Multi-Purpose-UI-Mobile-App-Design--Community-?node-id=0-11956&t=RZ8RxAQbmunHBWl8-0&scaling=scale-down&content-scaling=fixed&page-id=0%3A1&starting-point-node-id=0%3A12855"
               />
