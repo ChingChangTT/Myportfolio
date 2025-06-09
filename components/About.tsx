@@ -1,4 +1,4 @@
-import { MypfPicture } from "@/public/assets";
+import  MypfPicture  from "../public/assets/images/MypfPicture.jpg";
 import Image from "next/image";
 import SectionTitle from "./SectionTitle";
 import { AiFillThunderbolt } from "react-icons/ai";
