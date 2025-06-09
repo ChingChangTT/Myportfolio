@@ -13,9 +13,10 @@ const About = () => {
       <div className="flex flex-col lgl:flex-row gap-16">
         <div className="w-full lgl:w-2/3 text-base text-textDark font-medium flex flex-col gap-4">
           <p>
-            Hello! My name is Keo Ratana and I enjoy creating things that
-            live on the internet. My interest in web development started back in
-            2023 when I decided to try re built an website by self, It's make me feel interested how website work and its logic.
+            <p>{`Hello! My name is Keo Ratana and I enjoy creating things that
+live on the internet. My interest in web development started back in
+2023 when I decided to try re-build a website by myself. It made me feel interested in how websites work and their logic.`}</p>
+
           </p>
           <p>
             Fast-forward to today, and I had the privilege of working at an
