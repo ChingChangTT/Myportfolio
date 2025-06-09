@@ -3,6 +3,7 @@ import Image from "next/image";
 import SectionTitle from "./SectionTitle";
 import { AiFillThunderbolt } from "react-icons/ai";
 const text="Hello! My name is Keo Ratana and I enjoy creating things that live on the internet. My interest in web development started back in 2023 when I decided to try re-build a website by myself. It made me feel interested in how websites work and their logic. ";
+// const MypfPicture="https://ibb.co/ynK8Wq18";
 const About = () => {
   return (
     <section
