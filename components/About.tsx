@@ -2,7 +2,7 @@ import { MypfPicture } from "@/public/assets";
 import Image from "next/image";
 import SectionTitle from "./SectionTitle";
 import { AiFillThunderbolt } from "react-icons/ai";
-
+const text="Hello! My name is Keo Ratana and I enjoy creating things that live on the internet. My interest in web development started back in 2023 when I decided to try re-build a website by myself. It made me feel interested in how websites work and their logic. ";
 const About = () => {
   return (
     <section
@@ -12,12 +12,10 @@ const About = () => {
       <SectionTitle title="About Me" titleNo="01" />
       <div className="flex flex-col lgl:flex-row gap-16">
         <div className="w-full lgl:w-2/3 text-base text-textDark font-medium flex flex-col gap-4">
-          <p>
-            <p>{`Hello! My name is Keo Ratana and I enjoy creating things that
-live on the internet. My interest in web development started back in
-2023 when I decided to try re-build a website by myself. It made me feel interested in how websites work and their logic.`}</p>
+          {/* <p> */}
+            <p>{text}</p>
 
-          </p>
+          {/* </p> */}
           <p>
             Fast-forward to today, and I had the privilege of working at an
             Backend and Frontend by using React and Laravel, a start-up,{" "}
